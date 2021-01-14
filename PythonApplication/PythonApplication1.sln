@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BAsic", "Basic.pyproj", "{3FE26052-D778-4C55-B458-584766428553}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Arrays", "..\Arrays\Arrays.pyproj", "{4625A4A6-8442-4E8F-983B-1D6238A0A78B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FE26052-D778-4C55-B458-584766428553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FE26052-D778-4C55-B458-584766428553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4625A4A6-8442-4E8F-983B-1D6238A0A78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4625A4A6-8442-4E8F-983B-1D6238A0A78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7329B876-E4E8-4B37-B872-A9A9FD07F90F}
+	EndGlobalSection
+EndGlobal
